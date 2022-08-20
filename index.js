@@ -31,4 +31,4 @@ function caesarCipher(string) {
   return string;
 }
 
-module.exports = { capitalize, reverseString, calculator };
+module.exports = { capitalize, reverseString, calculator, caesarCipher };
